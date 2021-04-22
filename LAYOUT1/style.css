@@ -1,7 +1,6 @@
-
-a:link {color: white};
-a:visited {color: bisque};
-a:active {color:beige};
+a:link {color: white;}
+a:visited {color: bisque;}
+a:active {color:beige;}
 
 body {
     background-image: url("https://assets.materialup.com/uploads/a92f40fe-db85-47fe-948a-9ba921c5e160/preview.png")!important;
