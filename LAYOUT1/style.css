@@ -1,9 +1,10 @@
+
 a:link {color: white;}
 a:visited {color: bisque;}
 a:active {color:beige;}
 
 body {
-    background-image: url("https://assets.materialup.com/uploads/a92f40fe-db85-47fe-948a-9ba921c5e160/preview.png")!important;
+    background-image: url("backgroundpattern.jpg")!important;
     background-repeat: repeat;
     margin: 0;
     padding: 0;
@@ -43,7 +44,7 @@ body {
 
 
 main {
-    background-image: url("https://image-cdn.neatoshop.com/styleimg/65702/none/white/default/368478-20;1510142772x.jpg");
+    background-image: url("backgroundleaves.jpg");
     background-repeat: repeat;
     float: left;
     border: black solid thin;
@@ -84,7 +85,6 @@ aside{
     width: 300px;
     height: auto;
 }
-
 
 
 .footer{
