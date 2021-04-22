@@ -1,0 +1,102 @@
+
+a:link {color: white};
+a:visited {color: bisque};
+a:active {color:beige};
+
+body {
+    background-image: url("https://assets.materialup.com/uploads/a92f40fe-db85-47fe-948a-9ba921c5e160/preview.png")!important;
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Orelega One', cursive;
+}
+
+.header {
+    background:transparent;
+    margin: 0;
+    padding: 0;
+    height: 10rem;
+    width: 100%;
+    font-size:4rem;
+    color: white;
+    text-align: center;
+}
+
+.menu {
+    margin: 0;
+    padding-top: 2rem;
+    background-color: chocolate;
+    border-radius: 1rem;
+    border: white solid thin;
+    height: 3rem;
+    width: calc(100%-5px);
+    text-align: center;
+}
+
+.menu a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+
+main {
+    background-image: url("https://image-cdn.neatoshop.com/styleimg/65702/none/white/default/368478-20;1510142772x.jpg");
+    background-repeat: repeat;
+    float: left;
+    border: black solid thin;
+    border-radius: 1rem;
+    margin: 2rem;
+    padding: 40 px;
+    width: 75%;
+}
+
+main .articlesection{
+    background-color: beige;
+    border-radius: 1rem;
+    border: black thin solid;
+    margin: 5rem;
+    padding: 5rem;
+    color: black;
+}
+
+
+main h1,h2,h3{
+    font-size: larger;
+    font-weight: bold;
+}
+
+aside{
+    border-radius: 1rem;
+    border: white solid thin;
+    color: white;
+    background-color: chocolate;
+    float: right;
+    margin-top: 2rem;
+    padding: 10px;
+    width:  20%;
+    height: auto;
+}
+
+.gifsection img{
+    width: 300px;
+    height: auto;
+}
+
+
+
+.footer{
+    background: #994d33;
+    color: white;
+    height: 2rem;
+    border-top: 2px solid white;  
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+}
+
