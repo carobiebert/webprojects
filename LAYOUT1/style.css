@@ -63,9 +63,18 @@ main .articlesection{
     color: black;
 }
 
+.articlesection p{
+    text-align: justify;
+}
 
-main h1,h2,h3{
-    font-size: larger;
+
+.articlesection h2{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.advertisingsectio h2{
+    font-size: 1rem;
     font-weight: bold;
 }
 
@@ -80,6 +89,12 @@ aside{
     width:  20%;
     height: auto;
 }
+
+.advertisingsection{
+    padding: 1rem;
+    text-align: center;
+}
+
 
 .gifsection img{
     width: 300px;
