@@ -101,10 +101,10 @@ aside{
 
 
 .gifsection img{
-    width: 20rem;
+    width: 100%;
+    max-width:300px;
     height: auto;
 }
-
 
 .footer{
     background: #994d33;
